@@ -27,7 +27,4 @@ Version Control & Hosting: GitHub
 
 👤 Author
 Student Name: Rudraneel Simaiya
-
-## 👤 Author
-- **Student Name:** Rudraneel Simaiya
-- **Institution:** Medi-Caps University
+Institution: Medi-Caps University
